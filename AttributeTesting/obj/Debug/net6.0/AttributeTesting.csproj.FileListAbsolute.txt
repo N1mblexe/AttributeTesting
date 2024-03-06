@@ -1,0 +1,14 @@
+C:\Users\kahra\source\repos\AttributeTesting\AttributeTesting\bin\Debug\net6.0\AttributeTesting.exe
+C:\Users\kahra\source\repos\AttributeTesting\AttributeTesting\bin\Debug\net6.0\AttributeTesting.deps.json
+C:\Users\kahra\source\repos\AttributeTesting\AttributeTesting\bin\Debug\net6.0\AttributeTesting.runtimeconfig.json
+C:\Users\kahra\source\repos\AttributeTesting\AttributeTesting\bin\Debug\net6.0\AttributeTesting.dll
+C:\Users\kahra\source\repos\AttributeTesting\AttributeTesting\bin\Debug\net6.0\AttributeTesting.pdb
+C:\Users\kahra\source\repos\AttributeTesting\AttributeTesting\obj\Debug\net6.0\AttributeTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kahra\source\repos\AttributeTesting\AttributeTesting\obj\Debug\net6.0\AttributeTesting.AssemblyInfoInputs.cache
+C:\Users\kahra\source\repos\AttributeTesting\AttributeTesting\obj\Debug\net6.0\AttributeTesting.AssemblyInfo.cs
+C:\Users\kahra\source\repos\AttributeTesting\AttributeTesting\obj\Debug\net6.0\AttributeTesting.csproj.CoreCompileInputs.cache
+C:\Users\kahra\source\repos\AttributeTesting\AttributeTesting\obj\Debug\net6.0\AttributeTesting.dll
+C:\Users\kahra\source\repos\AttributeTesting\AttributeTesting\obj\Debug\net6.0\refint\AttributeTesting.dll
+C:\Users\kahra\source\repos\AttributeTesting\AttributeTesting\obj\Debug\net6.0\AttributeTesting.pdb
+C:\Users\kahra\source\repos\AttributeTesting\AttributeTesting\obj\Debug\net6.0\AttributeTesting.genruntimeconfig.cache
+C:\Users\kahra\source\repos\AttributeTesting\AttributeTesting\obj\Debug\net6.0\ref\AttributeTesting.dll
